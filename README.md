@@ -32,8 +32,4 @@ This section adds credibility and builds trust with prospective buyers.
 
 
 
-This Page offers a curated selection of rental properties across various cities, showcasing architectural excellence 
-and lifestyle appeal. This section presents rental options with average pricing to help users easily compare locations and budgets.
-
-![Image](https://github.com/user-attachments/assets/94acda44-b107-4ebc-95dd-01a84acf2312)
 
